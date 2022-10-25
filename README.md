@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/0f010ab9524f257994109.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://i.imgur.com/twNAtLk.jpeg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">LalaBOT - MD</h1>
 <p align="center">
